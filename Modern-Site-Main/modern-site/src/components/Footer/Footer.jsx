@@ -21,9 +21,9 @@ const Footer = () =>{
         <div className="footer-section">
           <h4>Sosyal Medya</h4>
           <ul>
-            <li><a href="#"><i class="ri-instagram-line"></i>İnstagram</a></li>
+            <li><a href="#"><i class="ri-instagram-line"></i> İnstagram</a></li>
             <li><a href="#"><i class="ri-github-line"></i>Github</a></li>
-            <li><a href="#"><i class="ri-linkedin-line"></i>Linkedin</a></li>
+            <li><a href="#"><i class="ri-linkedin-line"></i> Linkedin</a></li>
           </ul>
         </div>
        
