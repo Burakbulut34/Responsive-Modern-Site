@@ -13,14 +13,10 @@
     margin-bottom: 40px;
   }
   
-  .logo {
-    font-size: 28px;
-    font-weight: bold;
-    color: white;
+  .logo img {
     width:50px;
     border-radius: 15px;
     heigth:50px;
-    margin-bottom: 10px;
   }
   
   .contact-header h2 {
