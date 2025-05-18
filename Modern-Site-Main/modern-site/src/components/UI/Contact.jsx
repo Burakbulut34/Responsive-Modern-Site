@@ -1,12 +1,13 @@
 import React from "react";
 import "../../Styles/contact.css";
+import logo from '../../assets/site-logo/kloxyn.jpg'; // Logonuzun yolu
 
 function Contact() {
   return (
     <section id="contact" className="contact-section">
       <div className="contact-container">
         <div className="contact-header">
-          <div className="logo">Kloxyn</div>
+          <div className="logo">{logo}</div>
           <h2>İletişime Geçin</h2>
           <p>Her zaman size yardımcı olmaktan memnuniyet duyarız.</p>
         </div>
