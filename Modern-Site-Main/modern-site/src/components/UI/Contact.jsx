@@ -7,7 +7,7 @@ function Contact() {
     <section id="contact" className="contact-section">
       <div className="contact-container">
         <div className="contact-header">
-          <div className="logo">{logo}</div>
+          <div className="logo"><img src={logo} alt="Kloxyn Logo" /></div>
           <h2>İletişime Geçin</h2>
           <p>Her zaman size yardımcı olmaktan memnuniyet duyarız.</p>
         </div>
